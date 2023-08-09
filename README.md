@@ -26,7 +26,7 @@
 
 * [1.6 MiniOB 线程模型](zh-CN/1.database-system-overview/7.miniob-thread-model.md)：介绍 MiniOB 的底层数据结构线程池。
 
-* [1.7 课后实践](zh-CN/1.database-system-overview/8.homework.md)：根据本章内容给出一个 MiniOB 相关题目供大家练习。
+* [1.7 课后实践](zh-CN/1.database-system-overview/8.practical-exercises-of-01.md)：根据本章内容给出一个 MiniOB 相关题目供大家练习。
 
 ### 第 2 章：数据库的存储结构
 
@@ -44,7 +44,7 @@
 
 * [2.6 MiniOB 存储实现原理](zh-CN/2.database-storage-structure/7.miniob-storage-implementation.md)：从存储层面介绍 MiniOB 的实现。
 
-* [2.7 课后实践](zh-CN/2.database-storage-structure/8.homework.md)：根据本章内容给出一个 MiniOB 相关题目供大家练习。
+* [2.7 课后实践](zh-CN/2.database-storage-structure/8.practical-exercises-of-02.md)：根据本章内容给出一个 MiniOB 相关题目供大家练习。
 
 ### 第 3 章：索引结构
 
@@ -58,7 +58,7 @@
 
 * [3.4 MiniOB B+Tree 实现](zh-CN/3.index-structure/5.miniob-btree-introduction.md)：介绍 MiniOB 的 B+ 树如何实现，以及如何对 B+ 树进行插入和删除操作。
 
-* [3.5 课后实践](zh-CN/3.index-structure/6.homework.md)：根据本章内容给出一个 MiniOB 相关题目供大家练习。
+* [3.5 课后实践](zh-CN/3.index-structure/6.practical-exercises-of-03.md)：根据本章内容给出一个 MiniOB 相关题目供大家练习。
 
 ## 第 4 章：SQL 引擎
 
@@ -82,7 +82,7 @@
 
 * [4.9 代价](zh-CN/4.sql-engine/10.cost.md)：结合示例帮助理解什么是代价，并介绍统计信息的概念，以及统计信息在代价估计中的意义。
 
-* [4.10 课后实践](zh-CN/4.sql-engine/11.homework.md)：根据本章内容给出一个 MiniOB 相关题目供大家练习。
+* [4.10 课后实践](zh-CN/4.sql-engine/11.practical-exercises-of-04.md)：根据本章内容给出一个 MiniOB 相关题目供大家练习。
 
 ## 第 5 章：事务引擎
 
@@ -106,7 +106,7 @@
 
 * [5.9 多版本并发控制](zh-CN/5.transaction-engine/10.mvcc.md)：介绍版本控制协议和快照隔离的概念。
 
-* [5.10 课后实践](zh-CN/5.transaction-engine/11.homework.md)：根据本章内容给出一个 MiniOB 相关题目供大家练习。
+* [5.10 课后实践](zh-CN/5.transaction-engine/11.practical-exercises-of-05.md)：根据本章内容给出一个 MiniOB 相关题目供大家练习。
 
 ## 贡献文档
 
